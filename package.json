@@ -1,0 +1,16 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "chromatic": "^4.0.2"
+  },
+  "scripts": {
+    "chromatic": "chromatic",
+    "build-storybook": "build-storybook -c .storybook -o ./dist/my-component/storybook/"
+  },
+  "name": "chromatic-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
